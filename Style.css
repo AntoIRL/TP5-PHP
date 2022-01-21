@@ -1,0 +1,30 @@
+table, th, td
+{
+    border-collapse: collapse;
+    border: black;
+    border-style: solid;
+}
+th
+{
+    background-color: lightgray;
+}
+#Male
+{
+    background-color: cornflowerblue;
+}
+#Female
+{
+    background-color: deeppink;
+}
+#Gauche/*17 ans et moins*/
+{
+    text-align: left;
+}
+#Centre/*18 à 30 anss*/
+{
+    text-align: center;
+}
+#Droite/*31 ans et plus*/
+{
+    text-align: right;
+}
